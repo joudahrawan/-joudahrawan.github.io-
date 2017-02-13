@@ -12,11 +12,12 @@ h1{
 	font-family: 'Roboto', sans-serif;
 	font-family: 'Inconsolata', monospace;
 	font-weight: bold;
-	margin-top: 1m;
+	margin-top: 1em;
     margin-bottom: 0px;
     margin-right: 1.5em;
     margin-left: 80px;
 }
+
 h2{ 
 	color: #DAA520;
 	font-family: 'Pangolin', cursive;
@@ -25,9 +26,14 @@ h2{
 	font-weight: normal;
 	margin-top: 1em;
     margin-bottom: 0px;
-    margin-right: 1.5m;
+    margin-right: 1.5em;
     margin-left: 80px;
  }
+
+a#first:hover {
+    text-decoration: underline;
+    color: #DAA520;
+}
 p {
 	text-align: center;
 	font-family: 'Pangolin', cursive;
@@ -38,11 +44,10 @@ p {
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
-    margin-top: 1m;
+    margin-top: 1em;
     margin-bottom: 0px;
-    margin-right: 1.5m;
+    margin-right: 1.5em;
     margin-left: 80px;
-
 }
 
 #first {
@@ -59,21 +64,22 @@ p {
     margin-right: 1.5em;
     margin-left: 80px;
 }
+
 ol {
 	text-align: center;
 	font-family: 'Pangolin', cursive;
 	font-family: 'Roboto', sans-serif;
 	font-family: 'Inconsolata', monospace;
     padding-top: 0px;
-    padding-right: 30px;
+    padding-right: 70px;
     padding-bottom: 0px;
     padding-left: 1em;
     margin-top: 1em;
     margin-bottom: 0px;
     margin-right: 1.5em;
     margin-left: 80px;
-
 }
+
 footer{ text-align: center;
 	font-family: 'Pangolin', cursive;
 	font-family: 'Roboto', sans-serif;
