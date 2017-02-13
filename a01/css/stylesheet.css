@@ -30,10 +30,6 @@ h2{
     margin-left: 80px;
  }
 
-a#first:hover {
-    text-decoration: underline;
-    color: #DAA520;
-}
 p {
 	text-align: center;
 	font-family: 'Pangolin', cursive;
@@ -63,6 +59,11 @@ p {
     margin-bottom: 0px;
     margin-right: 1.5em;
     margin-left: 80px;
+}
+
+a#first: hover {
+    text-decoration: underline;
+    color: #DAA520;
 }
 
 ol {
